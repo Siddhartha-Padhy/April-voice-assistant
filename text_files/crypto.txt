@@ -1,0 +1,2 @@
+2022-01-26
+If the above date doesn't match current date then the top crypto currency stocks will appear here along with their prices once the crypto command is used when the program is running.

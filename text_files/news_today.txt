@@ -1,0 +1,3 @@
+2022-01-26
+If the above date doesn't match current date then all the news headlines will appear here
+once the news command is used when the program is running.

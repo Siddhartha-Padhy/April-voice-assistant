@@ -1,0 +1,3 @@
+2022-01-26
+If the above date doesn't match current date then the weather information will appear here
+once the weather command is used when the program is running.
